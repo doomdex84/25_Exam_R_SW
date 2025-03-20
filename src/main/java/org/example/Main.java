@@ -9,6 +9,7 @@ public class Main {
 
         String i = "*";
 
+        
         int a = sc.nextInt();
         int b = sc.nextInt();
 
@@ -21,5 +22,8 @@ public class Main {
     }
 
 }
+
+
+
 
 
