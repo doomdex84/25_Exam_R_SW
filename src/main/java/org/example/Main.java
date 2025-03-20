@@ -15,6 +15,7 @@ public class Main {
         for (int x = 0; x <= a; x++) {
             System.out.println(i);
         }
+
         for (int y = 0; y <= b; y++) {
            System.out.println(i);
         }
